@@ -140,3 +140,4 @@ websocket-client==1.5.1
 Werkzeug==2.2.2
 xxhash==3.2.0
 yarl==1.8.2
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
