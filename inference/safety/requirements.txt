@@ -3,3 +3,4 @@ fastapi
 loguru
 pydantic
 uvicorn
+transformers>=4.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
