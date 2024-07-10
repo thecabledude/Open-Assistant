@@ -21,3 +21,4 @@ sqlmodel==0.0.8
 starlette==0.22.0
 uuid7==0.1.0
 uvicorn==0.20.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
