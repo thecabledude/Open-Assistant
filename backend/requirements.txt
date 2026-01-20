@@ -22,3 +22,5 @@ sqlmodel==0.0.8
 tqdm>=4.64.1
 uuid7==0.1.0
 uvicorn==0.20.0
+pyasn1>=0.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
